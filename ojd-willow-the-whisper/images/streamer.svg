@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1"
+	 id="svg8" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 500 300"
+	 style="enable-background:new 0 0 500 300;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#808080;}
+	.st1{fill:none;stroke:#808080;stroke-width:2;stroke-miterlimit:15.1181;}
+	.st2{fill:#FFFFFF;}
+	.st3{fill:#808080;stroke:#808080;stroke-width:0.1301;stroke-miterlimit:15.1181;}
+	.st4{fill:none;stroke:#FFFFFF;stroke-width:0.1948;stroke-miterlimit:1.5588;}
+</style>
+<sodipodi:namedview  bordercolor="#666666" borderopacity="1.0" guidetolerance="10000" id="base" inkscape:current-layer="layer3" inkscape:cx="374.1902" inkscape:cy="161.83561" inkscape:document-units="mm" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:snap-perpendicular="true" inkscape:snap-tangential="true" inkscape:window-height="1302" inkscape:window-maximized="0" inkscape:window-width="1930" inkscape:window-x="1810" inkscape:window-y="686" inkscape:zoom="1.3805155" pagecolor="#ffffff" showgrid="false" units="px">
+	</sodipodi:namedview>
+<g id="layer4" transform="translate(0,-217.62501)" inkscape:groupmode="layer" inkscape:label="Layer 4">
+</g>
+<g id="layer2" transform="translate(0,-217.62501)" inkscape:groupmode="layer" inkscape:label="Layer 2">
+</g>
+<g id="layer3" transform="translate(0,-217.62501)" inkscape:groupmode="layer" inkscape:label="Layer 3">
+	<circle id="path3917-1" inkscape:label="btnX" class="st0 theme-button" cx="373.2" cy="363.4" r="16.6" ojd-button="X">
+	</circle>
+	<circle id="path3917-1-2" inkscape:label="btnY" class="st0 theme-button" cx="407" cy="328.9" r="16.6" ojd-button="Y">
+	</circle>
+	<circle id="path3917-1-2-7" inkscape:label="btnB" class="st0 theme-button" cx="440.2" cy="363.4" r="16.6" ojd-button="B">
+	</circle>
+	<circle id="path3917-1-2-7-0" inkscape:label="btnA" class="st0 theme-button" cx="407" cy="397.1" r="16.6" ojd-button="A">
+	</circle>
+	<path id="rect261" inkscape:connector-curvature="0" class="st1" d="M200.2,413.8c-7,0-13.2-0.1-13.2,3.4l0,0c0,7,0,14.1,0,21.2
+		h-21.2c-3.7,0-3.4,9.7-3.4,13.2c0,7-0.1,13.2,3.4,13.2l0,0c7,0,14.1,0,21.2,0V486c0,3.7,9.7,3.4,13.2,3.4c7,0,13.2,0.1,13.2-3.4
+		l0,0c0-7,0-14.1,0-21.2h21.2c3.7,0,3.4-9.7,3.4-13.2c0-7,0.1-13.2-3.4-13.2l0,0c-7,0-14.1,0-21.2,0v-21.2
+		C213.5,413.6,203.8,413.8,200.2,413.8z"/>
+	<g id="text294" transform="matrix(0.46891416,0,0,0.46891416,3.2176077,184.49438)" inkscape:label="lblB">
+		<path id="path859" inkscape:connector-curvature="0" class="st2" d="M924.2,382.3v12.8h7.6c2.5,0,4.4-0.5,5.6-1.6
+			c1.2-1.1,1.9-2.7,1.9-4.9c0-2.2-0.6-3.8-1.9-4.8c-1.2-1-3.1-1.6-5.6-1.6L924.2,382.3z M924.2,367.9v10.5h7c2.3,0,4-0.4,5.2-1.3
+			c1.1-0.9,1.7-2.2,1.7-4s-0.6-3.1-1.7-4c-1.1-0.9-2.8-1.3-5.2-1.3L924.2,367.9z M919.5,364h12.1c3.6,0,6.4,0.7,8.3,2.3
+			c2,1.5,2.9,3.6,2.9,6.4c0,2.1-0.5,3.8-1.5,5.1c-1,1.3-2.5,2.1-4.4,2.4c2.3,0.5,4.1,1.5,5.4,3.1c1.3,1.6,1.9,3.6,1.9,5.9
+			c0,3.1-1.1,5.5-3.2,7.2c-2.1,1.7-5.1,2.6-9.1,2.6h-12.6v-35H919.5z"/>
+	</g>
+	<g id="text294-2" transform="matrix(0.46891416,0,0,0.46891416,3.2176113,184.49438)" inkscape:label="lblA">
+		<path id="path856" inkscape:connector-curvature="0" class="st2" d="M861.2,440.6l-6.4,17.4h12.9L861.2,440.6z M858.5,436h5.4
+			l13.3,35h-4.9l-3.2-9h-15.8l-3.2,9h-5L858.5,436z"/>
+	</g>
+	<g id="text294-1" transform="matrix(0.46891416,0,0,0.46891416,3.217616,184.49438)" inkscape:label="lblY">
+		<path id="path862" inkscape:connector-curvature="0" class="st2" d="M846.4,290.5h5.1l9.7,14.4l9.6-14.4h5.1l-12.4,18.3v16.7h-4.8
+			v-16.7L846.4,290.5z"/>
+	</g>
+	<g id="text294-1-6" transform="matrix(0.46891416,0,0,0.46891416,3.2176105,184.49438)" inkscape:label="lblX">
+		<path id="path865" inkscape:connector-curvature="0" class="st2" d="M775.5,364h5.1l8.7,13l8.7-13h5.1l-11.3,16.8l12,18.2h-5.1
+			l-9.8-14.9L779,399h-5l12.5-18.7L775.5,364z"/>
+	</g>
+	<circle id="path3917-1-7" inkscape:label="btnStart" class="st0 theme-button" cx="310.6" cy="362.9" r="11.8" ojd-button="START">
+	</circle>
+	<circle id="path3917-1-7-1" inkscape:label="btnSelect" class="st3 theme-button" cx="189.6" cy="364.9" r="11.8" ojd-button="SELECT">
+	</circle>
+	<circle id="path4980" inkscape:label="btnXbox" class="st0 theme-button" cx="250.2" cy="364.3" r="26.7" ojd-button="XBOX">
+	</circle>
+	<g id="g4146" transform="matrix(0.02923007,0,0,0.02923007,60.708874,251.34812)" inkscape:label="labelXbox">
+		<path id="path4148_1_" class="st2" d="M7146.5,3947.2c-13.7,0-6.8-3.4-6.8-10.3c20.5-37.6,27.4-78.7,27.4-123.2
+			c0-61.6-13.7-123.2-27.4-184.7c0-3.4,0-6.8-6.8-6.8s-3.4,6.8-3.4,10.3c0,10.3,0,20.5,0,30.8c-10.3,65-41.1,123.2-82.1,171.1
+			c-17.1,20.5-34.2,41.1-51.3,61.6c3.4-27.4,0-54.7-3.4-82.1c-13.7-82.1-51.3-157.4-92.4-229.2c-3.4-6.8-6.8-13.7-10.3-20.5
+			c-13.7-54.7-37.6-102.6-71.8-143.7c-6.8-6.8-13.7-13.7-20.5-20.5c34.2-3.4,65,3.4,92.4-13.7c-3.4-3.4-10.3-3.4-13.7-3.4
+			c-41.1,0-75.3-10.3-109.5-30.8c-6.8-3.4-10.3-10.3-13.7-17.1c-6.8-30.8-13.7-61.6-20.5-92.4c0-3.4,0-6.8-3.4-6.8
+			c-3.4,0-3.4,3.4-6.8,6.8c-6.8,10.3-13.7,23.9-17.1,37.6c-3.4,10.3-6.8,20.5-10.3,30.8c-27.4-41.1-61.6-68.4-106.1-92.4
+			c-3.4-3.4-10.3-3.4-13.7,0c-3.4,3.4,3.4,10.3,6.8,13.7c6.8,10.3,17.1,20.5,23.9,34.2c-17.1-6.8-30.8-13.7-44.5-17.1
+			c-61.6-17.1-123.2-17.1-188.2-10.3c-41.1,3.4-78.7,6.8-119.7-3.4c10.3,27.4,37.6,30.8,58.2,41.1c-37.6,13.7-47.9,20.5-65,47.9
+			c-3.4,6.8-6.8,10.3-10.3,17.1c-13.7,20.5-27.4,34.2-54.7,34.2c-3.4,0-3.4,0-6.8,3.4c0,3.4,3.4,3.4,3.4,6.8
+			c6.8,3.4,13.7,3.4,17.1,6.8c3.4,0,6.8,3.4,3.4,3.4c-3.4,6.8-10.3,10.3-17.1,13.7c-6.8,3.4-6.8-6.8-6.8-10.3
+			c-20.5-51.3-41.1-106.1-61.6-157.4c-3.4-3.4-3.4-10.3-6.8-13.7c-3.4,3.4-3.4,10.3-3.4,13.7c-6.8,37.6-13.7,78.7-17.1,116.3
+			c-3.4,41.1-10.3,82.1-6.8,123.2c0,17.1-3.4,34.2-10.3,47.9c-13.7,23.9-27.4,47.9-37.6,75.3c-6.8,13.7-10.3,23.9-17.1,41.1
+			c0-6.8-3.4-10.3-3.4-13.7c-10.3-41.1-17.1-78.7-37.6-116.3c-3.4-6.8-6.8-10.3-13.7-17.1c-3.4,23.9-3.4,47.9-6.8,68.4
+			c-3.4,54.7-10.3,112.9-13.7,167.6c-3.4,27.4-3.4,54.7-3.4,82.1c3.4,27.4,3.4,54.7,6.8,85.5c-6.8-6.8-10.3-10.3-13.7-13.7
+			c-17.1-13.7-34.2-10.3-41.1,10.3c-3.4,10.3-3.4,20.5-3.4,34.2c3.4,23.9,10.3,47.9,20.5,71.8c0,3.4,6.8,6.8-3.4,10.3
+			c-13.7,3.4-17.1,13.7-20.5,23.9c-6.8,17.1-6.8,34.2-3.4,54.7c3.4,27.4,17.1,47.9,34.2,68.4c3.4,6.8,3.4,6.8,0,13.7
+			c-17.1,17.1-20.5,34.2-6.8,54.7c6.8,10.3,17.1,20.5,27.4,27.4c6.8,3.4,10.3,6.8,13.7,17.1c3.4,23.9,13.7,44.5,23.9,65
+			c27.4,44.5,61.6,75.3,106.1,102.6c47.9,27.4,99.2,54.7,150.5,75.3c65,27.4,133.4,37.6,205.3,30.8c68.4-6.8,133.4-20.5,198.4-41.1
+			c78.7-27.4,154-54.7,219-109.5c6.8-3.4,6.8-3.4,10.3,3.4c6.8,20.5,23.9,34.2,47.9,41.1c17.1,3.4,30.8,3.4,47.9,0
+			c37.6-6.8,68.4-23.9,85.5-61.6c10.3-23.9,6.8-41.1-13.7-58.2c-6.8-6.8-3.4-6.8,0-10.3c17.1-13.7,30.8-30.8,44.5-47.9
+			c20.5-23.9,37.6-51.3,47.9-82.1c3.4-13.7,3.4-27.4,0-41.1c-3.4-10.3-13.7-17.1-23.9-20.5c3.4-3.4,6.8-6.8,6.8-10.3
+			c20.5-30.8,37.6-58.2,47.9-92.4c3.4-13.7,6.8-23.9,3.4-37.6C7160.1,3954.1,7156.7,3947.2,7146.5,3947.2z M5986.7,4005.4
+			c-23.9-10.3-3.4-27.4-3.4-27.4s208.7,27.4,301.1,17.1c0,0,6.8,44.5-13.7,51.3C6250.1,4053.3,6014.1,4015.6,5986.7,4005.4z
+			 M6380.1,4409.1c-44.5,6.8-78.7-3.4-102.6-30.8c-23.9-27.4,6.8-58.2-47.9-123.2c0,0,20.5,27.4,51.3,30.8
+			c30.8,3.4,61.6,34.2,99.2,37.6c37.6,0,37.6,0,37.6,0S6424.6,4402.2,6380.1,4409.1z M6800.9,4207.2
+			c-41.1,0-345.5-126.6-362.6-136.8c-13.7-10.3,10.3-58.2,10.3-58.2l369.5,171.1C6818,4183.3,6842,4207.2,6800.9,4207.2z
+			 M6349.3,4309.8l10.3,37.6l23.9-34.2L6349.3,4309.8z"/>
+	</g>
+
+		<path id="path868-7" inkscape:flatsided="true" inkscape:label="btnUp" inkscape:randomized="0" inkscape:rounded="0" inkscape:transform-center-x="-0.76395442" inkscape:transform-center-y="-3.013453e-06" sodipodi:arg1="-2.0943951" sodipodi:arg2="-1.0471976" sodipodi:cx="56.000957" sodipodi:cy="249.40775" sodipodi:r1="3.0558243" sodipodi:r2="1.5279123" sodipodi:sides="3" sodipodi:type="star" class="st0 theme-button" d="
+		M190.3,434l10-17.3l10,17.3H190.3z" ojd-button="UP"/>
+
+		<path id="path868" inkscape:flatsided="true" inkscape:label="btnRight" inkscape:randomized="0" inkscape:rounded="0" inkscape:transform-center-x="-0.76395442" inkscape:transform-center-y="-3.013453e-06" sodipodi:arg1="-2.0943951" sodipodi:arg2="-1.0471976" sodipodi:cx="59.175961" sodipodi:cy="279.5387" sodipodi:r1="3.0558243" sodipodi:r2="1.5279123" sodipodi:sides="3" sodipodi:type="star" class="st0 theme-button" d="
+		M217.9,441.6l17.3,10l-17.3,10V441.6z" ojd-button="RIGHT"/>
+
+		<path id="path868-5" inkscape:flatsided="true" inkscape:label="btnLeft" inkscape:randomized="0" inkscape:rounded="0" inkscape:transform-center-x="-0.76395442" inkscape:transform-center-y="-3.013453e-06" sodipodi:arg1="-2.0943951" sodipodi:arg2="-1.0471976" sodipodi:cx="-46.796074" sodipodi:cy="-279.5387" sodipodi:r1="3.0558243" sodipodi:r2="1.5279123" sodipodi:sides="3" sodipodi:type="star" class="st0 theme-button" d="
+		M182.6,461.6l-17.3-10l17.3-10V461.6z" ojd-button="LEFT"/>
+
+		<path id="path868-1" inkscape:flatsided="true" inkscape:label="btnDown" inkscape:randomized="0" inkscape:rounded="0" inkscape:transform-center-x="-0.76395442" inkscape:transform-center-y="-3.013453e-06" sodipodi:arg1="-2.0943951" sodipodi:arg2="-1.0471976" sodipodi:cx="56.000957" sodipodi:cy="249.40775" sodipodi:r1="3.0558243" sodipodi:r2="1.5279123" sodipodi:sides="3" sodipodi:type="star" class="st0 theme-button" d="
+		M210.3,469.2l-10,17.3l-10-17.3H210.3z" ojd-button="DOWN"/>
+	<circle id="path3917-12" inkscape:label="color-accent" class="st1" cx="307.8" cy="451.6" r="42.3">
+	</circle>
+	<circle id="path3917-12-8" inkscape:label="color-accent" class="st1" cx="100.6" cy="367" r="42.3">
+	</circle>
+	<path id="rect1842" inkscape:label="btnL" class="st0 theme-button" d="M151.5,276.8h52c6.7,0,12.1,5.4,12.1,12.1v9.5c0,6.7-5.4,12.1-12.1,12.1
+		h-52c-6.7,0-12.1-5.4-12.1-12.1v-9.5C139.4,282.2,144.8,276.8,151.5,276.8z" ojd-button="L"/>
+	<path id="rect1842-4" inkscape:label="btnR1" class="st0 theme-button" d="M295.5,276.8h52c6.7,0,12.1,5.4,12.1,12.1v9.5
+		c0,6.7-5.4,12.1-12.1,12.1h-52c-6.7,0-12.1-5.4-12.1-12.1v-9.5C283.5,282.2,288.9,276.8,295.5,276.8z" ojd-button="R"/>
+	<path id="rect1842-40" inkscape:label="btnL2" class="st0 theme-button" d="M151.5,232.1h52c6.7,0,12.1,5.4,12.1,12.1v9.5
+		c0,6.7-5.4,12.1-12.1,12.1h-52c-6.7,0-12.1-5.4-12.1-12.1v-9.5C139.4,237.5,144.8,232.1,151.5,232.1z" ojd-button="L2"/>
+	<path id="rect1842-4-9" inkscape:label="btnR2" class="st0 theme-button" d="M295.5,232.1h52c6.7,0,12.1,5.4,12.1,12.1v9.5
+		c0,6.7-5.4,12.1-12.1,12.1h-52c-6.7,0-12.1-5.4-12.1-12.1v-9.5C283.5,237.5,288.9,232.1,295.5,232.1z" ojd-button="R2"/>
+	<g id="text1573" transform="matrix(1.2690156,0,0,1.2690156,-10.811725,218.63755)" inkscape:label="lblL1">
+		<path id="path1677" inkscape:connector-curvature="0" class="st2" d="M138.3,51.7h2v13.1h7.2v1.7h-9.2V51.7z"/>
+		<path id="path1679" inkscape:connector-curvature="0" class="st2" d="M150,64.8h3.3V53.6l-3.5,0.7v-1.8l3.5-0.7h2v13.1h3.3v1.7
+			H150V64.8z"/>
+	</g>
+	<g id="text1573-3" transform="matrix(1.2690156,0,0,1.2690156,-10.585218,218.63755)" inkscape:label="lblR1">
+		<path id="path1672" inkscape:connector-curvature="0" class="st2" d="M257.2,59.6c0.4,0.1,0.8,0.5,1.2,0.9c0.4,0.5,0.8,1.1,1.2,2
+			l2,4h-2.1l-1.9-3.8c-0.5-1-1-1.6-1.4-2c-0.5-0.3-1.1-0.5-1.9-0.5h-2.2v6.2h-2V51.7h4.5c1.7,0,2.9,0.4,3.8,1.1s1.2,1.8,1.2,3.2
+			c0,0.9-0.2,1.7-0.7,2.3C258.6,58.9,258,59.3,257.2,59.6z M252.2,53.4v5.2h2.5c1,0,1.7-0.2,2.2-0.7c0.5-0.4,0.7-1.1,0.7-2
+			s-0.2-1.5-0.7-1.9s-1.2-0.7-2.2-0.7h-2.5V53.4z"/>
+		<path id="path1674" inkscape:connector-curvature="0" class="st2" d="M264.8,64.8h3.3V53.6l-3.5,0.7v-1.8l3.5-0.7h2v13.1h3.3v1.7
+			h-8.5L264.8,64.8L264.8,64.8z"/>
+	</g>
+	<g id="text1573-1" transform="matrix(1.2690156,0,0,1.2690156,-11.022584,216.82574)" inkscape:label="lblL2">
+		<path id="path1682" inkscape:connector-curvature="0" class="st2" d="M138.5,18.1h2v13.1h7.2v1.7h-9.2V18.1z"/>
+		<path id="path1684" inkscape:connector-curvature="0" class="st2" d="M151.7,31.1h7v1.7h-9.4v-1.7c0.8-0.8,1.8-1.8,3.1-3.2
+			c1.3-1.3,2.1-2.2,2.5-2.6c0.6-0.7,1.1-1.3,1.3-1.8c0.3-0.5,0.4-1,0.4-1.5c0-0.8-0.3-1.4-0.8-1.9s-1.3-0.7-2.1-0.7
+			c-0.6,0-1.3,0.1-2,0.3c-0.7,0.2-1.4,0.5-2.2,1v-2c0.8-0.3,1.6-0.6,2.3-0.7c0.7-0.2,1.3-0.2,1.9-0.2c1.5,0,2.7,0.4,3.7,1.1
+			c0.9,0.8,1.4,1.8,1.4,3.1c0,0.6-0.1,1.2-0.3,1.7s-0.6,1.2-1.2,1.9c-0.2,0.2-0.7,0.7-1.6,1.7C154.5,28.2,153.3,29.5,151.7,31.1z"/>
+	</g>
+	<g id="text1573-1-3" transform="matrix(1.2690156,0,0,1.2690156,-12.220584,216.82574)" inkscape:label="lblR2">
+		<path id="path1667" inkscape:connector-curvature="0" class="st2" d="M258.5,25.9c0.4,0.1,0.8,0.5,1.2,0.9c0.4,0.5,0.8,1.1,1.2,2
+			l2,4h-2.1L259,29c-0.5-1-1-1.6-1.4-2c-0.5-0.3-1.1-0.5-1.9-0.5h-2.2v6.2h-2V18.1h4.5c1.7,0,2.9,0.4,3.8,1.1
+			c0.8,0.7,1.2,1.8,1.2,3.2c0,0.9-0.2,1.7-0.7,2.3C260,25.2,259.4,25.7,258.5,25.9z M253.5,19.7v5.2h2.5c1,0,1.7-0.2,2.2-0.7
+			c0.5-0.4,0.7-1.1,0.7-2c0-0.9-0.2-1.5-0.7-1.9s-1.2-0.7-2.2-0.7h-2.5V19.7z"/>
+		<path id="path1669" inkscape:connector-curvature="0" class="st2" d="M267.5,31.1h7v1.7h-9.4v-1.7c0.8-0.8,1.8-1.8,3.1-3.2
+			c1.3-1.3,2.1-2.2,2.5-2.6c0.6-0.7,1.1-1.3,1.3-1.8c0.3-0.5,0.4-1,0.4-1.5c0-0.8-0.3-1.4-0.8-1.9s-1.3-0.7-2.1-0.7
+			c-0.6,0-1.3,0.1-2,0.3c-0.7,0.2-1.4,0.5-2.2,1v-2c0.8-0.3,1.6-0.6,2.3-0.7c0.7-0.2,1.3-0.2,1.9-0.2c1.5,0,2.7,0.4,3.7,1.1
+			c0.9,0.8,1.4,1.8,1.4,3.1c0,0.6-0.1,1.2-0.3,1.7c-0.2,0.5-0.6,1.2-1.2,1.9c-0.2,0.2-0.7,0.7-1.6,1.7
+			C270.4,28.2,269.1,29.5,267.5,31.1z"/>
+	</g>
+	<path id="rect1842-40-0" inkscape:label="btnL3" class="st0 theme-button" d="M77.5,433.3h52c6.7,0,12.1,5.4,12.1,12.1v9.5
+		c0,6.7-5.4,12.1-12.1,12.1h-52c-6.7,0-12.1-5.4-12.1-12.1v-9.5C65.5,438.7,70.9,433.3,77.5,433.3z" ojd-button="L3"/>
+	<path id="rect1842-4-9-3" inkscape:label="btnR3" class="st0 theme-button" d="M383.3,433.3h52c6.7,0,12.1,5.4,12.1,12.1v9.5
+		c0,6.7-5.4,12.1-12.1,12.1h-52c-6.7,0-12.1-5.4-12.1-12.1v-9.5C371.2,438.7,376.6,433.3,383.3,433.3z" ojd-button="R3"/>
+	<g id="text1573-1-9" transform="translate(-0.27983199,206.76909)" inkscape:label="lblL3">
+		<path id="path923" inkscape:connector-curvature="0" class="st2" d="M90.8,234h2.5v16.6h9.1v2.1H90.8V234z"/>
+		<path id="path925" inkscape:connector-curvature="0" class="st2" d="M113,242.6c1.2,0.3,2.2,0.8,2.8,1.6c0.7,0.8,1,1.8,1,3
+			c0,1.8-0.6,3.3-1.9,4.3s-3.1,1.5-5.4,1.5c-0.8,0-1.6-0.1-2.4-0.2c-0.8-0.2-1.7-0.4-2.6-0.7v-2.4c0.7,0.4,1.5,0.7,2.3,0.9
+			s1.7,0.3,2.6,0.3c1.6,0,2.8-0.3,3.6-0.9c0.8-0.6,1.3-1.5,1.3-2.7c0-1.1-0.4-2-1.2-2.6c-0.8-0.6-1.8-0.9-3.2-0.9h-2.2v-2.1h2.3
+			c1.2,0,2.2-0.2,2.9-0.7c0.7-0.5,1-1.2,1-2.2s-0.3-1.7-1-2.2s-1.7-0.8-2.9-0.8c-0.7,0-1.4,0.1-2.2,0.2c-0.8,0.2-1.7,0.4-2.6,0.7
+			v-2.3c1-0.3,1.9-0.5,2.7-0.6c0.8-0.1,1.6-0.2,2.4-0.2c1.9,0,3.4,0.4,4.6,1.3c1.1,0.9,1.7,2,1.7,3.5c0,1-0.3,1.9-0.9,2.6
+			C114.9,241.9,114.1,242.4,113,242.6L113,242.6z"/>
+	</g>
+	<g id="text1573-1-3-9" transform="translate(4.0880344,206.76909)" inkscape:label="lblR3">
+		<path id="path918" inkscape:connector-curvature="0" class="st2" d="M399.3,244c0.5,0.2,1.1,0.6,1.6,1.2c0.5,0.6,1,1.4,1.6,2.5
+			l2.6,5.1h-2.7L400,248c-0.6-1.3-1.2-2.1-1.8-2.5c-0.6-0.4-1.4-0.6-2.4-0.6H393v7.9h-2.5V234h5.7c2.1,0,3.7,0.4,4.8,1.3
+			c1.1,0.9,1.6,2.2,1.6,4.1c0,1.2-0.3,2.2-0.8,2.9C401.1,243.1,400.3,243.7,399.3,244L399.3,244z M392.9,236.1v6.6h3.2
+			c1.2,0,2.1-0.3,2.8-0.8c0.6-0.6,0.9-1.4,0.9-2.5s-0.3-1.9-0.9-2.5s-1.5-0.8-2.8-0.8H392.9z"/>
+		<path id="path920" inkscape:connector-curvature="0" class="st2" d="M416.2,242.6c1.2,0.3,2.2,0.8,2.8,1.6c0.7,0.8,1,1.8,1,3
+			c0,1.8-0.6,3.3-1.9,4.3s-3.1,1.5-5.4,1.5c-0.8,0-1.6-0.1-2.4-0.2c-0.8-0.2-1.7-0.4-2.6-0.7v-2.4c0.7,0.4,1.5,0.7,2.3,0.9
+			s1.7,0.3,2.6,0.3c1.6,0,2.8-0.3,3.6-0.9c0.8-0.6,1.3-1.5,1.3-2.7c0-1.1-0.4-2-1.2-2.6c-0.8-0.6-1.8-0.9-3.2-0.9H411v-2.1h2.3
+			c1.2,0,2.2-0.2,2.9-0.7c0.7-0.5,1-1.2,1-2.2s-0.3-1.7-1-2.2s-1.7-0.8-2.9-0.8c-0.7,0-1.4,0.1-2.2,0.2c-0.8,0.2-1.7,0.4-2.6,0.7
+			v-2.3c1-0.3,1.9-0.5,2.7-0.6c0.8-0.1,1.6-0.2,2.4-0.2c1.9,0,3.4,0.4,4.6,1.3c1.1,0.9,1.7,2,1.7,3.5c0,1-0.3,1.9-0.9,2.6
+			C418.1,241.9,417.3,242.4,416.2,242.6z"/>
+	</g>
+</g>
+</svg>
